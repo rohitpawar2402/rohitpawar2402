@@ -1,5 +1,41 @@
 # 💫 About Me:
-"I’m currently working on": I selected Deep Learning, NLP, CNN, LLM project because it shows technical depth (Random Forest/XGBoost) and is a recent high-impact project (May 2025).<br><br><br><br>"I’m looking to collaborate on": Your resume mentions you have "participated in scientific discussions about natural language processing" and enjoy "collaborating on ML model development," so this fits perfectly.<br><br><br>"I’m currently learning": I referenced your Oracle Fusion AI Agent Studio certification here to show you are staying up-to-date with the latest AI trends.<br><br><br>"Ask me about": These are drawn directly from your Technical Skills section, highlighting your strongest tools: Python, ML, Power BI, and SQL.<br><br><br><br>"Fun fact": I tied this to your HR Analytics Dashboard, where you specifically mentioned "Enhanced storytelling capabilities," which is a great soft skill to highlight.
+👋 Hi, I'm Rohit Pawar
+
+🚀 Full Stack Developer | AI & Machine Learning Engineer
+
+I’m a passionate developer focused on building scalable web applications and intelligent AI-driven solutions. I enjoy transforming complex problems into elegant, efficient systems using modern technologies across the full stack.
+
+💻 Tech Stack
+
+Languages: Python, JavaScript
+
+Frontend: React
+
+Backend: Node.js
+
+Databases: SQL, MongoDB
+
+AI & ML: TensorFlow, Scikit-learn
+
+Data Analysis: Pandas, NumPy
+
+Visualization: Data Visualization & Insights
+
+Deployment: Model Deployment & Production Systems
+
+🔍 What I Do
+
+Develop end-to-end full stack applications
+
+Design and train machine learning models
+
+Analyze and visualize data for actionable insights
+
+Deploy ML models into real-world applications
+
+🌱 Always learning, experimenting, and building impactful tech.
+
+📫 Let’s connect and collaborate!
 
 
 ## 🌐 Socials:
